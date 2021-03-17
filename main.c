@@ -7,9 +7,9 @@ int main()
 	int qtdepessoa;
 	float conta;
 	float rateio;
-    float multa;
-    int novaConta = 1;
-    int loop = 1;
+    	float multa;
+    	int novaConta = 1;
+    	int loop = 1;
 	
 
     printf("Digite quantidade de pessoas: ");
