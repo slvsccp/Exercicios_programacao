@@ -1,2 +1,2 @@
 # Uninove
-Repositório criado com intuito de organizar algumas códigos.
+Repositório criado com intuito de organizar alguns códigos.
