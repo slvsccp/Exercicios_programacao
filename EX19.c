@@ -35,7 +35,7 @@ int main()
     break;
 
     default:
-    printf("ERRO!");
+    printf("ERRO! opção inválida, tente: + - * /");
   }
 
   printf("Resultado: %.2f", resultado);
