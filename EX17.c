@@ -12,10 +12,12 @@ int main()
 
   if(valorDoSaque <= saldoDisponivel){
     saldoDisponivel = saldoDisponivel - valorDoSaque;
-    printf("Sacando R$ %.2f", valorDoSaque);
+    printf("Sacando R$ %.2f\n", valorDoSaque);
   } else {
-    printf("O valor solicitado é maior que o valor disponível para saque!");
+    printf("O valor solicitado é maior que o valor disponível para saque!\n");
   }
+
+  printf("Saldo disponível R$ %.2f\n", saldoDisponivel);
 
   return 0;
 }
