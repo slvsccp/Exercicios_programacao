@@ -2,6 +2,7 @@
 
 int main()
 {
+  //Crie um algoritmo para somar valores até o usuário digitar 0
   float valorDigitado, soma;
 
   printf("Digite um valor para a soma: ");
